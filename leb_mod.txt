@@ -1,0 +1,5 @@
+map_name = "Example LEB Mod"
+map_desc = "This is an example mod, your description goes here!"
+multi_variant = False
+has_small = False
+has_large = False
