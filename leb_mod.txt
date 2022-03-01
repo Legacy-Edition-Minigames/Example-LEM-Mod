@@ -1,5 +1,6 @@
-map_name = "Example LEB Mod"
-map_desc = "This is an example mod, your description goes here!"
+map_name = "Windswept"
+map_desc = "Dungeons themes LEB Map"
 multi_variant = False
 has_small = False
 has_large = False
+pack = https://github.com/SUPERN00Bthefirst/LEB-Resources/raw/zip/zip/standard/windswept.zip
