@@ -1,6 +1,6 @@
 map_name = "Windswept"
-map_desc = "Dungeons themes LEB Map"
+map_desc = "Dungeons themed LEB Map"
 multi_variant = False
 has_small = False
-has_large = False
-pack = https://github.com/SUPERN00Bthefirst/LEB-Resources/raw/zip/zip/standard/windswept.zip
+has_large = True
+pack = "https://github.com/SUPERN00Bthefirst/LEB-Resources/raw/zip/zip/standard/windswept.zip"
