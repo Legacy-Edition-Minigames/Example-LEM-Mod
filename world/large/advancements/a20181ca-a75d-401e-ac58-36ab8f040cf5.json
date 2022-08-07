@@ -77,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2021-12-03 11:43:42 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-12-03 11:43:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-12-03 11:43:42 -0600"
     },
     "done": true
   },
@@ -215,5 +215,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2975
 }
