@@ -1,14 +1,13 @@
-
 {
     "name": "Windswept",
-    "description": "Dungeons themed LEB Map",
+    "description": "The powerful winds carry a corrupting power on top of these mountian peaks.",
     "authors": "S_N00B",
-    "version": "1",
+    "version": "2",
     "id": "windswept",
     "pack": "windswept",
-    "hassmall": false,
+    "hassmall": true,
     "haslarge": true,
     "haslargeplus": false,
     "hasremastered": false,
-    "centercoords": "30 74 17"
+    "centercoords": "19 72 25"
 }
