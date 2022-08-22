@@ -9,5 +9,6 @@
     "haslarge": true,
     "haslargeplus": false,
     "hasremastered": false,
-    "centercoords": "19 72 25"
+    "centercoords_small": "19 72 25",
+    "centercoords_large": "19 72 25"
 }
