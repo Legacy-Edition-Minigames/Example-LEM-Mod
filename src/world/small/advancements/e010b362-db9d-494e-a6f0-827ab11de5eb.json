@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2022-09-17 15:20:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2022-01-16 21:54:00 -0800"
@@ -1244,6 +1250,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-01-11 01:21:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2022-09-17 15:20:36 -0700"
     },
     "done": true
   },
