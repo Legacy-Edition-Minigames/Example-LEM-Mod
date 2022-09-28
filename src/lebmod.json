@@ -4,6 +4,7 @@
     "authors": "DBTDerpbox",
     "version": "1",
     "id": "examplemod",
+    "type": "map",
     "pack": "vanilla",
     "hassmall": false,
     "haslarge": true,
