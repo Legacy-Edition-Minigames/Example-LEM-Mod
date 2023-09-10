@@ -6,6 +6,7 @@
     "id": "examplemod",
     "type": "map",
     "pack": "vanilla",
+    "villagers": false,
     "hassmall": false,
     "haslarge": true,
     "haslargeplus": false,
